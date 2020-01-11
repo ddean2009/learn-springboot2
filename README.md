@@ -7,4 +7,5 @@ spring boot2 系列教程
 
 # 系列教程
 * [使用Spring Boot搭建你的第一个应用程序](http://www.flydean.com/springboot-a-simple-app/)
+* [如何在Spring boot中修改默认端口](http://www.flydean.com/change-default-port-in-spring-boot/)
 
