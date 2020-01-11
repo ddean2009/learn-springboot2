@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>bootstrap-sample-app</module>
+        <module>change-default-port</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
