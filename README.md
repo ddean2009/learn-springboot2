@@ -5,3 +5,6 @@ spring boot2 系列教程
 
 如果喜欢的话，请大家 star 一下，谢谢
 
+# 系列教程
+* [使用Spring Boot搭建你的第一个应用程序](http://www.flydean.com/springboot-a-simple-app/)
+
