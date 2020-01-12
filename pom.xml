@@ -6,6 +6,7 @@
     <modules>
         <module>bootstrap-sample-app</module>
         <module>change-default-port</module>
+        <module>spring-boot-starts</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
