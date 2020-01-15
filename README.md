@@ -10,3 +10,4 @@ spring boot2 系列教程
 * [如何在Spring boot中修改默认端口](http://www.flydean.com/change-default-port-in-spring-boot/)
 * [spring-boot-starters介绍](http://www.flydean.com/spring-boot-starters/)
 * [自定义parent POM](http://www.flydean.com/custom-parent-pom/)
+* [使用spring boot创建fat jar](http://www.flydean.com/use-spring-boot-create-fat-jar-app/)
