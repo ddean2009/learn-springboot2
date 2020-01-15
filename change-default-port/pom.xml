@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>change default port</artifactId>
+    <artifactId>change-default-port</artifactId>
 
     <dependencies>
         <dependency>
