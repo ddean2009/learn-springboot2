@@ -11,3 +11,4 @@ spring boot2 系列教程
 * [spring-boot-starters介绍](http://www.flydean.com/spring-boot-starters/)
 * [自定义parent POM](http://www.flydean.com/custom-parent-pom/)
 * [使用spring boot创建fat jar](http://www.flydean.com/use-spring-boot-create-fat-jar-app/)
+* [spring boot 使用maven和fat jar/war运行应用程序的对比](http://www.flydean.com/spring-boot-maven-vs-fat-jar-war/)
