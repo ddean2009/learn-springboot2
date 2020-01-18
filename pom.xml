@@ -9,6 +9,7 @@
         <module>spring-boot-starts</module>
         <module>springboot-fatjar</module>
         <module>springboot-fatwar</module>
+        <module>spring-boot-annotations</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
