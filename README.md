@@ -15,3 +15,4 @@ spring boot2 系列教程
 * [Maven Wrapper简介](http://www.flydean.com/maven-wrapper/)
 * [Spring Boot注解](http://www.flydean.com/spring-boot-annotations/)
 * [Spring Boot @EnableAutoConfiguration和 @Configuration的区别](http://www.flydean.com/spring-boot-enableautoconfiguration-vs-configuration/)
+* [自定义spring boot的自动配置]((http://www.flydean.com/springboot-custom-autoconfig))
