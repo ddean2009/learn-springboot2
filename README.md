@@ -16,3 +16,4 @@ spring boot2 系列教程
 * [Spring Boot注解](http://www.flydean.com/spring-boot-annotations/)
 * [Spring Boot @EnableAutoConfiguration和 @Configuration的区别](http://www.flydean.com/spring-boot-enableautoconfiguration-vs-configuration/)
 * [自定义spring boot的自动配置](http://www.flydean.com/springboot-custom-autoconfig)
+* [在Spring Boot中配置web app](http://www.flydean.com/springboot-config-webapp/)
