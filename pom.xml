@@ -11,6 +11,7 @@
         <module>springboot-fatwar</module>
         <module>spring-boot-annotations</module>
         <module>springboot-custom-autoconfig</module>
+        <module>springboot-config-webapp</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -42,11 +43,6 @@
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <scope>runtime</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
 
         <dependency>
