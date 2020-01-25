@@ -18,3 +18,4 @@ spring boot2 系列教程
 * [自定义spring boot的自动配置](http://www.flydean.com/springboot-custom-autoconfig)
 * [在Spring Boot中配置web app](http://www.flydean.com/springboot-config-webapp/)
 * [从Spring迁移到Spring Boot](http://www.flydean.com/migrate-spring-to-springboot/)
+* [Spring Boot中的测试](http://www.flydean.com/spring-boot-test/)
