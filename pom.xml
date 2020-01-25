@@ -13,6 +13,7 @@
         <module>springboot-custom-autoconfig</module>
         <module>springboot-config-webapp</module>
         <module>springboot-test</module>
+        <module>springboot-testRestTemplate</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
