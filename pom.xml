@@ -14,6 +14,7 @@
         <module>springboot-config-webapp</module>
         <module>springboot-test</module>
         <module>springboot-testRestTemplate</module>
+        <module>springboot-actuator</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

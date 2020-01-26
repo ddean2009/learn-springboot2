@@ -19,3 +19,4 @@ spring boot2 系列教程
 * [在Spring Boot中配置web app](http://www.flydean.com/springboot-config-webapp/)
 * [从Spring迁移到Spring Boot](http://www.flydean.com/migrate-spring-to-springboot/)
 * [Spring Boot中的测试](http://www.flydean.com/spring-boot-test/)
+* [Spring Boot的TestRestTemplate使用](http://www.flydean.com/springboot-testresttemplate/)
