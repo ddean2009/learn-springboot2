@@ -20,3 +20,4 @@ spring boot2 系列教程
 * [从Spring迁移到Spring Boot](http://www.flydean.com/migrate-spring-to-springboot/)
 * [Spring Boot中的测试](http://www.flydean.com/spring-boot-test/)
 * [Spring Boot的TestRestTemplate使用](http://www.flydean.com/springboot-testresttemplate/)
+* [Spring Boot Actuator](http://www.flydean.com/spring-boot-actuator/)
