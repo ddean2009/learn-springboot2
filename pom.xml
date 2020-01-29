@@ -15,6 +15,7 @@
         <module>springboot-test</module>
         <module>springboot-testRestTemplate</module>
         <module>springboot-actuator</module>
+        <module>springboot-properties</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
