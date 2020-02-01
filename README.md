@@ -22,3 +22,4 @@ spring boot2 系列教程
 * [Spring Boot的TestRestTemplate使用](http://www.flydean.com/springboot-testresttemplate/)
 * [Spring Boot Actuator](http://www.flydean.com/spring-boot-actuator/)
 * [Spring Boot中的Properties](http://www.flydean.com/spring-boot-properties/)
+* [SpringBoot @ConfigurationProperties详解](http://www.flydean.com/springboot-configurationproperties/)
