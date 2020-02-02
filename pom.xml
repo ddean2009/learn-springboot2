@@ -17,6 +17,7 @@
         <module>springboot-actuator</module>
         <module>springboot-properties</module>
         <module>springboot-ConfigurationProperties</module>
+        <module>springboot-load-ini-data</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
