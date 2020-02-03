@@ -23,3 +23,4 @@ spring boot2 系列教程
 * [Spring Boot Actuator](http://www.flydean.com/spring-boot-actuator/)
 * [Spring Boot中的Properties](http://www.flydean.com/spring-boot-properties/)
 * [SpringBoot @ConfigurationProperties详解](http://www.flydean.com/springboot-configurationproperties/)
+* [在Spring Boot中加载初始化数据](http://www.flydean.com/spring-boot-load-ini-data/)
