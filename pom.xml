@@ -19,6 +19,7 @@
         <module>springboot-ConfigurationProperties</module>
         <module>springboot-load-ini-data</module>
         <module>springboot-exitcode</module>
+        <module>springboot-shutdown</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
