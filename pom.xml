@@ -20,6 +20,7 @@
         <module>springboot-load-ini-data</module>
         <module>springboot-exitcode</module>
         <module>springboot-shutdown</module>
+        <module>springboot-customer-banner</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

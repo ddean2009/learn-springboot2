@@ -25,3 +25,4 @@ spring boot2 系列教程
 * [SpringBoot @ConfigurationProperties详解](http://www.flydean.com/springboot-configurationproperties/)
 * [在Spring Boot中加载初始化数据](http://www.flydean.com/spring-boot-load-ini-data/)
 * [Spring Boot的exit code](http://www.flydean.com/spring-boot-exit-code/)
+* [Shutdown SpringBoot App](http://www.flydean.com/shutdown-springboot-app/)
