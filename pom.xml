@@ -21,6 +21,7 @@
         <module>springboot-exitcode</module>
         <module>springboot-shutdown</module>
         <module>springboot-customer-banner</module>
+        <module>springboot-filter</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
