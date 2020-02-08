@@ -22,6 +22,7 @@
         <module>springboot-shutdown</module>
         <module>springboot-customer-banner</module>
         <module>springboot-filter</module>
+        <module>springboot-generate-restclient</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
