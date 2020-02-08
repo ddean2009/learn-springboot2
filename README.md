@@ -28,3 +28,4 @@ spring boot2 系列教程
 * [Shutdown SpringBoot App](http://www.flydean.com/shutdown-springboot-app/)
 * [Spring boot 自定义banner](http://www.flydean.com/spring-boot-customer-banner/)
 * [Spring Boot filter](http://www.flydean.com/spring-boot-filter/)
+* [Spring Boot中使用Swagger CodeGen生成REST client](http://www.flydean.com/spring-boot-swagger-codegen-rest-client/)
