@@ -29,3 +29,4 @@ spring boot2 系列教程
 * [Spring boot 自定义banner](http://www.flydean.com/spring-boot-customer-banner/)
 * [Spring Boot filter](http://www.flydean.com/spring-boot-filter/)
 * [Spring Boot中使用Swagger CodeGen生成REST client](http://www.flydean.com/spring-boot-swagger-codegen-rest-client/)
+* [Spring Boot中使用@JsonComponent](http://www.flydean.com/spring-boot-jsoncomponent/)

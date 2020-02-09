@@ -24,6 +24,7 @@
         <module>springboot-filter</module>
         <module>springboot-generate-restclient</module>
         <module>springboot-jsoncomponent</module>
+        <module>springboot-Internationalization</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
