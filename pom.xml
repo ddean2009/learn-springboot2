@@ -27,6 +27,8 @@
         <module>springboot-Internationalization</module>
         <module>springboot-devtool</module>
         <module>springboot-admin</module>
+        <module>springboot-run-as-service</module>
+        <module>springboot-jpa</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
