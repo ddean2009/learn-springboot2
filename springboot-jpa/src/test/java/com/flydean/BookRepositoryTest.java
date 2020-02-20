@@ -50,7 +50,7 @@ public class BookRepositoryTest {
         book.setAuthor(randomAlphabetic(15));
 
         bookRepository.save(book);
-        log.info(bookRepository.findOneByTitle("title").get().toString());
+        log.info(bookRepository.findOneByTitle("title").orElse(new Book()).toString());
     }
 
     @Test
