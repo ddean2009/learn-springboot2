@@ -30,6 +30,7 @@
         <module>springboot-run-as-service</module>
         <module>springboot-jpa</module>
         <module>springboot-h2</module>
+        <module>springboot-query</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
