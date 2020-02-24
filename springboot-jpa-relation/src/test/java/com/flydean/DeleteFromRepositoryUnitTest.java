@@ -69,7 +69,7 @@ public class DeleteFromRepositoryUnitTest {
     public void whenDeletingBooks_thenCategoriesShouldAlsoBeDeleted() {
         bookRepository.deleteAll();
         assertThat(bookRepository.count()).isEqualTo(0);
-        assertThat(categoryRepository.count()).isEqualTo(2);
+        assertThat(categoryRepository.count()).isEqualTo(1);
     }
 
 

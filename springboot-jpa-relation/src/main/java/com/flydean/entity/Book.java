@@ -18,6 +18,5 @@ public class Book {
     private String title;
 
     @ManyToOne
-    @JoinColumn(name="categoryId")
     private Category category;
 }
