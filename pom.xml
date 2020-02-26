@@ -32,6 +32,7 @@
         <module>springboot-h2</module>
         <module>springboot-query</module>
         <module>springboot-jpa-relation</module>
+        <module>springboot-transaction</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
