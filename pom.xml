@@ -33,6 +33,7 @@
         <module>springboot-query</module>
         <module>springboot-jpa-relation</module>
         <module>springboot-transaction</module>
+        <module>springboot-with-docker</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
