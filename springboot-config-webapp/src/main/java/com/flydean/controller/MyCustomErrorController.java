@@ -18,7 +18,6 @@ public class MyCustomErrorController implements ErrorController {
         return "Error haven";
     }
 
-    @Override
     public String getErrorPath() {
         return PATH;
     }
