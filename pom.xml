@@ -35,6 +35,7 @@
         <module>springboot-transaction</module>
         <module>springboot-with-docker</module>
         <module>springboot-reactive-web</module>
+        <module>springboot-rest-HATEOAS</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
